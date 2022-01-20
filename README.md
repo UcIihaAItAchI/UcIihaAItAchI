@@ -1,7 +1,7 @@
-- 👋 Hi, I’m itachi uchiha
+- 💥 Hi, I’m itachi uchiha
 - 👀 I have my mangekyou Sharingan eye
-- 🌱 I’m currently learning ... python,java
-- 💞️ I’m looking for a friend
+- 😇 I’m currently learning ... python,java
+- 😈 I’m looking for a friend
 - 📫 instagram:-itachi_1364
 
 <!---
